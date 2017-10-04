@@ -1,0 +1,10 @@
+[package]
+name = "sorting"
+version = "0.1.0"
+authors = ["Gavriel Rachael-Homann <gxr2329@rit.edu>"]
+
+[dependencies]
+csv = "1.0.0-beta.4"
+rand = "*"
+serde = "1"
+serde_derive = "1"
